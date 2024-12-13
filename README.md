@@ -1,2 +1,3 @@
-# TIL
-할 수 있다 우재야 ! 넌 할 수 있어 ! 해야만해 !
+# Today I Learned
+
+![bg](./imgs/IMG_0253.JPG)
